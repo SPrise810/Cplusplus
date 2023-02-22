@@ -50,6 +50,9 @@
 //C++增加了很多命名，防止命名冲突
 //命名冲突：
 /*include<stdio.h>
+* 
+* 
+* 1111
 //#include<stdlib.h>
 //
 //int rand = 0;
